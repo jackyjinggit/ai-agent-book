@@ -1,8 +1,9 @@
-# ai-agent-book 精读笔记（本 fork 增量）
+# ai-agent-book 工程方法论导读（本 fork 增量）
 
-> 本 fork 是李博杰《深入理解 AI Agent：设计原理与工程实践》的**精读加工层**。
+> 本 fork 是李博杰《深入理解 AI Agent：设计原理与工程实践》的**工程方法论导读层（AI Agent / Harness 工程视角）**。
 > 不搬运正文（正文见上游 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)），
 > 只添加「读后提炼」——把章节内容加工成可直接复用的工程方法论文档（框架 / 判据 / 清单），并附与生产实践的对照。
+> 定位：把 Harness 工程从教材讲明白到能落地——第 2/4/5/7 章笔记对应上下文工程、工具（MCP）、Coding Agent、评估归因，构成 Agent/Harness 工程的知识地图。
 > 笔记为独立加工产物（Apache-2.0），内容提炼自原书（亦 Apache-2.0），不替代阅读原书。
 
 ## 为什么需要这份增量
